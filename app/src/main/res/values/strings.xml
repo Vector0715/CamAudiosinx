@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Camera Music App</string>
+    <string name="select_music">🎵 Musiqa tanlash</string>
+    <string name="switch_camera">🔄</string>
+    <string name="no_music_selected">Musiqa tanlanmagan</string>
+    <string name="recording">● YOZILMOQDA</string>
+    <string name="permission_needed">Kamera va mikrofon ruxsati kerak</string>
+</resources>
